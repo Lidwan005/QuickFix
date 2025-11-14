@@ -21,8 +21,7 @@
                 <a href="browse.php" class="nav-link">Browse Services</a>
                 <a href="customer-dashboard.php" class="nav-link">Customer Dashboard</a>
                 <a href="provider-dashboard.php" class="nav-link">Provider Dashboard</a>
-                <a href="login.php" class="nav-link">Login</a>
-                <a href="register.php" class="nav-link">Register</a>
+                <a href="login.php" class="nav-link">Logout</a>
             </div>
         </div>
     </nav>
